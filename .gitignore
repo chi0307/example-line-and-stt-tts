@@ -1,7 +1,9 @@
 .DS_Store
+credentials.json
+.env
 
 node_modules/
-dist/*
 public/audio/*
 
+!.env.example
 !.gitkeep
